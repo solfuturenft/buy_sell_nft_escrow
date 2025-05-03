@@ -1,7 +1,7 @@
 use anchor_lang::prelude::*;
 use anchor_spl::token::{self, Mint, Token, TokenAccount, Transfer};
 
-declare_id!("5CxKi29TwWJYZuLw1UfEAZQQgSeZ9P7uGLVCG1SeeHdR");
+declare_id!("<id>");
 
 #[program]
 pub mod simple_escrow {
