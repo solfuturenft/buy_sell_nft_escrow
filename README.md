@@ -1,7 +1,3 @@
-Certainly! Here's a concise and marketing-friendly `README.md` tailored for the **SolFutureNFT** project:
-
----
-
 # 🚀 SolFutureNFT: Simple NFT Escrow Vault on Solana
 
 **SolFutureNFT** is a lightweight, trustless escrow solution built on the Solana blockchain using Rust and Anchor. It facilitates secure NFT transactions by holding assets in a program-controlled vault until both parties fulfill their obligations.
